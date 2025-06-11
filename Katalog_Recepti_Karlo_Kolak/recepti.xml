@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recepti>
+    <recept id="1">
+        <naziv>Spaghetti Carbonara</naziv>
+        <opis>Kremasta tjestenina s pancetom i parmezanom.</opis>
+        <vrijeme>25 minuta</vrijeme>
+        <kategorija>Ručak</kategorija>
+        <sastojci>
+            <sastojak>200g špageta</sastojak>
+            <sastojak>100g pancete</sastojak>
+            <sastojak>2 jaja</sastojak>
+            <sastojak>50g parmezana</sastojak>
+        </sastojci>
+        <slika>images/carbonara.jpg</slika>
+    </recept>
+    <recept id="2">
+        <naziv>Palačinke</naziv>
+        <opis>Jednostavne palačinke savršene za doručak ili desert.</opis>
+        <vrijeme>15 minuta</vrijeme>
+        <kategorija>Doručak</kategorija>
+        <sastojci>
+            <sastojak>2 jaja</sastojak>
+            <sastojak>200ml mlijeka</sastojak>
+            <sastojak>100g brašna</sastojak>
+            <sastojak>1 žličica šećera</sastojak>
+        </sastojci>
+        <slika>images/palacinke.jpg</slika>
+    </recept>
+<recept id="3"><naziv>mjhiug</naziv><opis>iugiuyguyi</opis><vrijeme>99</vrijeme><kategorija>Doručak</kategorija><sastojci><sastojak>jgfuig</sastojak><sastojak>uyfuyfyu</sastojak><sastojak>ugiu</sastojak></sastojci><slika>123</slika></recept><recept id="4"><naziv>SPAGETI</naziv><opis>OVO JE OPIS</opis><vrijeme>10</vrijeme><kategorija>Doručak</kategorija><sastojci><sastojak>JAJA</sastojak><sastojak>VODA...</sastojak></sastojci><slika>123</slika></recept></recepti>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<korisnici>
+    <korisnik>
+        <username>admin</username>
+        <password>admin</password>
+    </korisnik>
+<korisnik><username>KARLO</username><password>12345678</password></korisnik></korisnici>

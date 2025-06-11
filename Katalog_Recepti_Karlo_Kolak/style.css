@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    padding: 20px;
+}
+h1 {
+    text-align: center;
+}
+.kontejner {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+.kartica {
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    width: 250px;
+    box-shadow: 0 0 10px #ccc;
+}
+.kartica img {
+    width: 100%;
+}
+.kartica h2 {
+    margin-top: 10px;
+}
+.detalji img {
+    max-width: 300px;
+}
+form {
+    max-width: 500px;
+    margin: auto;
+}
+form label {
+    display: block;
+    margin-top: 10px;
+}
+form textarea {
+    width: 100%;
+}
+a.dodaj {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: bold;
+}
